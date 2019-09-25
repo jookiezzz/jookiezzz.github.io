@@ -83,3 +83,35 @@ body{
 	height: 50px;
 	width: 50px;
 }
+
+.pr {
+	height: 1000px;
+}
+
+.monday {
+	display: inline-block;
+}
+
+.tuesday {
+	display: inline-block;
+}
+
+.wednesday {
+	display: inline-block;
+}
+
+.thursday {
+	display: inline-block;
+}
+
+.friday {
+	display: inline-block;
+}
+
+.saturday {
+	display: inline-block;
+}
+
+.sunday {
+	display: inline-block;
+}
